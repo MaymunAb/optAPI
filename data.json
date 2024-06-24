@@ -1,0 +1,12 @@
+{
+    "resources": [
+        {
+            "filename": "ardatClient.py",
+            "github_link": "https://raw.githubusercontent.com/MaymunAb/optAPI/main/ardatClient.py"
+        },
+        {
+            "filename": "another_resource.txt",
+            "github_link": "https://raw.githubusercontent.com/MaymunAb/optAPI/main/another_resource.txt"
+        }
+    ]
+}
